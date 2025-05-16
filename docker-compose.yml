@@ -1,0 +1,15 @@
+version: '3.8'
+
+services:
+  mongodb:
+    image: mongo:6.0
+    container_name: github_mongo
+    ports:
+      - "27017:27017"
+    volumes:
+      - mongo_data:/data/db
+      - ./backup:/backup     # for backup storage
+      - ./restore:/restore   # for restore input
+
+volumes:
+  mongo_data:
