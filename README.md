@@ -15,5 +15,5 @@ internship project
 ├───docker-composer.yml
 ├───LICENCE
 ├───README.md
-└───requrements.txt
+└───requirements.txt
 ```
