@@ -3,11 +3,11 @@
 ## General Guidelines
 - Use clear and concise comments to describe the purpose of the code.
 - Write code that is easy to read and maintain.
-- Follow the project's coding standards and conventions like industy best practises.
+- Follow the project's coding standards and conventions like industry best practices.
 - Use meaningful variable and function names.
 - use consistent formatting and indentation.
 - Avoid unnecessary complexity; keep the code simple and straightforward.
-- Use tqtm,logger for better insights and debugging.
+- Use tqdm,logger for better insights and debugging.
 - follow the DRY (Don't Repeat Yourself) principle to avoid code duplication.
 - always use type hints and docstrings to improve code readability and maintainability.
 - always run scripts in a virtual environment to avoid conflicts with system packages.
@@ -22,13 +22,12 @@
 │   ├───__init__.py
 │   └───utils.py
 ├───.env 
-├───.env.smaple
+├───.env.sample
 ├───.gitignore
-├───docker-composer.yml
 ├───docker-composer.yml
 ├───LICENCE
 ├───README.md
-└───requrements.txt
+└───requirements.txt
 ```
 - Use a clear and logical folder structure to organize code files.
 - Place related files in the same folder.

@@ -10,11 +10,10 @@ internship project
 │   ├───__init__.py
 │   └───utils.py
 ├───.env 
-├───.env.smaple
+├───.env.sample
 ├───.gitignore
-├───docker-composer.yml
 ├───docker-composer.yml
 ├───LICENCE
 ├───README.md
-└───requrements.txt
+└───requirements.txt
 ```
