@@ -27,7 +27,7 @@
 ├───docker-composer.yml
 ├───LICENCE
 ├───README.md
-└───requrements.txt
+└───requirements.txt
 ```
 - Use a clear and logical folder structure to organize code files.
 - Place related files in the same folder.
