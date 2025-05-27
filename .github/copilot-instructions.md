@@ -25,7 +25,6 @@
 ├───.env.sample
 ├───.gitignore
 ├───docker-composer.yml
-├───docker-composer.yml
 ├───LICENCE
 ├───README.md
 └───requrements.txt
