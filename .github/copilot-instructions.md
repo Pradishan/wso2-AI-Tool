@@ -22,7 +22,7 @@
 │   ├───__init__.py
 │   └───utils.py
 ├───.env 
-├───.env.smaple
+├───.env.sample
 ├───.gitignore
 ├───docker-composer.yml
 ├───docker-composer.yml
