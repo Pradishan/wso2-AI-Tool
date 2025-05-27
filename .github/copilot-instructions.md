@@ -3,7 +3,7 @@
 ## General Guidelines
 - Use clear and concise comments to describe the purpose of the code.
 - Write code that is easy to read and maintain.
-- Follow the project's coding standards and conventions like industy best practises.
+- Follow the project's coding standards and conventions like industry best practices.
 - Use meaningful variable and function names.
 - use consistent formatting and indentation.
 - Avoid unnecessary complexity; keep the code simple and straightforward.
