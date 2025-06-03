@@ -1,7 +1,9 @@
 # coustomize settings
-/data
+*data/
 backup/
 .vscode/
+*logs/
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
