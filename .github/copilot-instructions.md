@@ -7,7 +7,7 @@
 - Use meaningful variable and function names.
 - use consistent formatting and indentation.
 - Avoid unnecessary complexity; keep the code simple and straightforward.
-- Use tqdm,logger for better insights and debugging.
+- Use tqdm, loguru, concurrent.futures for better insights and debugging.
 - follow the DRY (Don't Repeat Yourself) principle to avoid code duplication.
 - always use type hints and docstrings to improve code readability and maintainability.
 - always run scripts in a virtual environment to avoid conflicts with system packages.
