@@ -4,6 +4,7 @@ backup/
 .vscode/
 *logs/
 .mojo-env
+*.pkl
 
 
 # Byte-compiled / optimized / DLL files
