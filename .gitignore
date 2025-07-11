@@ -3,6 +3,7 @@
 backup/
 .vscode/
 *logs/
+.mojo-env
 
 
 # Byte-compiled / optimized / DLL files
