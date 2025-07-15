@@ -5,3 +5,5 @@ python-dotenv
 loguru
 pymongo
 gitpython
+tensorboard 
+torch
