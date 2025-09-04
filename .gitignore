@@ -5,7 +5,9 @@ backup/
 *logs/
 .mojo-env
 *.pkl
-
+*mlruns/
+results_codebert_mlflow
+logs_codebert_finetune
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
