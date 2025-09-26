@@ -29,12 +29,25 @@ The project aims to improve code quality by proactively identifying high-risk PR
 ## Project folder structure
 ```
 ├───backup
+├───commit_id_issue_pr_lnking
+│   ├───issue-pr
+│   └───pr-issue
 ├───data
+├───data downloader
+├───Docs
+├───EDA
+├───feature_extraction_and_Labeling
+├───keyword-linking
+├───mlruns
+├───Models-with-embeddings
+│   └───Tokenization and Embeddings
 ├───logs
 ├───restore
 ├───src
 │   ├───__init__.py
 │   └───utils.py
+├───statistical-model
+├───SZZ
 ├───.env 
 ├───.env.sample
 ├───.gitignore
