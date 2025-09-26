@@ -1,0 +1,3 @@
+# Tokenization and Embeddings
+In this section several experment were perfomred and data cleaning, tokenizing, Embedding we run multiple iterations the scripts are attempt of getting embedding on local but failed somany times due to lack of memory and computation power, ultimatelly embedding performed in google colab patform using final_dataset_with_full_diffs_CLEANED.csv datast 
+the script is [codeembeddings.ipynb](../codeembeddings.ipynb)
