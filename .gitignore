@@ -8,7 +8,7 @@ backup/
 *mlruns/
 results_codebert_mlflow
 logs_codebert_finetune
-
+.vscode/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

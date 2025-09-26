@@ -7,3 +7,5 @@ pymongo
 gitpython
 tensorboard 
 torch
+umap-learn
+keras-tuner
