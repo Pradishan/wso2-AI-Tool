@@ -1,4 +1,4 @@
-# AI-powered risk assessment before merging code
+# AI-powered PR risk assessment before merging code ( predict the risk of a future bug)
 > internship project
 
 This repository focuses on developing an AI-powered risk assessment tool for code changes before they are merged. The goal is to provide developers with a "risk score" for each pull request (PR) to identify potential bug-introducing changes.
