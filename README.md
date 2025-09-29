@@ -59,7 +59,7 @@ The project aims to improve code quality by proactively identifying high-risk PR
 <table width="100%">
   <tr>
     <td align="left">
-      <a href="./data downloader/readme.md"><img src="https://img.shields.io/badge/Research log-red?style=for-the-badge"></a>
+      <a href="./Docs"><img src="https://img.shields.io/badge/Research log-red?style=for-the-badge"></a>
     </td>
     <td align="right">
       <a href="data downloader/readme.md"><img src="https://img.shields.io/badge/Next-green?style=for-the-badge"></a>
